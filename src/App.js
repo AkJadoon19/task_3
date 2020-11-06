@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit and delete <code>src/App.js</code> and save to abdullah khan 2017023.
+    
+          abi add karo 
         </p>
         <a
           className="App-link"
