@@ -1,3 +1,6 @@
+[![codecov](https://codecov.io/gh/AkJadoon19/task_3/branch/main/graph/badge.svg)](https://codecov.io/gh/AkJadoon19/task_3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
